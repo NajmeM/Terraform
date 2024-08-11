@@ -163,7 +163,5 @@ This project uses specific versions of Terraform providers:
 - Docker provider: version ~> 3.0
 
 Ensure your Terraform version is compatible with these provider versions.
-```
 
-This README provides a comprehensive overview of your Terraform project for setting up Grafana. It includes the project structure, file descriptions, requirements, Terraform and provider configurations, resource definitions, variables, usage instructions, important notes, customization options, security considerations, and versioning information.
 
