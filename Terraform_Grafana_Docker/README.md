@@ -27,7 +27,7 @@ This Terraform configuration does the following:
 - Docker installed and running
 
 ## Terraform Configuration
-
+```hcl
 terraform {
   required_providers {
     grafana = {
@@ -40,14 +40,15 @@ terraform {
     }
   }
 }
-
+```
 
 ## Provider Configuration
 
 ### Docker Provider
 
+```hcl
 provider "docker" {}
-
+```
 
 ### Grafana Provider
 
