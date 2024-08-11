@@ -4,7 +4,7 @@ This project uses Terraform to deploy and configure a Grafana container along wi
 
 ## Project Structure
 
-![Terraform Dependency Graph](images/docker-grafana-sleep.png)
+![Terraform Dependency Graph](image/docker-grafana-sleep.png)
 
 The graph above illustrates the structure and dependencies of our Terraform configuration.
 
