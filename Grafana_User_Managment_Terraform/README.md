@@ -102,7 +102,7 @@ This will create the specified users in your Grafana instance.
 
 The following graph represents the dependencies and relationships within this Terraform project, helping to understand how different resources and variables interact.
 
-![Terraform Dependency Graph](images/terraform2.png)
+![Terraform Dependency Graph](image/terraform2.png)
 
 
 ## Future Enhancements
